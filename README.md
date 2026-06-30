@@ -1,4 +1,5 @@
-# SOC-Analysis-Project2. Abstract
+# SOC-Analysis-Project
+2. Abstract
 A Security Operations Center (SOC) is the centralized function within an organization that continuously monitors, detects, analyzes, and responds to cybersecurity incidents. This project simulates a mini-SOC environment using open-source tools to collect logs from various sources (Windows/Linux endpoints, firewalls, web servers), centralize them in a SIEM (Security Information and Event Management) platform, apply detection rules to identify malicious activity, generate alerts, and visualize findings through dashboards. The project covers the complete SOC analyst workflow: log collection, normalization, correlation, threat detection (e.g., brute-force attacks, port scans, malware signatures), alert triage, and incident report generation. The goal is to give a hands-on, end-to-end understanding of how real-world SOC teams detect and respond to cyber threats, bridging theoretical cybersecurity knowledge with practical blue-team operations.
 
 3. Objectives
